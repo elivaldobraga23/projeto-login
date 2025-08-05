@@ -41,6 +41,8 @@ Você pode visualizar a tela de login final neste link:
 
 👉 [Clique aqui para ver o projeto no ar](https://elivaldobraga23.github.io/projeto-login/)
 
+---
+
 ## 🧑‍🎓 Autor
 
 Projeto desenvolvido por **Elisvaldo Braga** durante os estudos com o Curso em Vídeo.
