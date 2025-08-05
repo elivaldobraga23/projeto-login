@@ -73,6 +73,9 @@ form > div.campo{
     height: 40px;
     margin: 5px 0px;
     border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 form label{
@@ -83,7 +86,7 @@ div.campo > i{
     color: white;
     font-size: 2em;
     width: 40px;
-    padding: 5px;
+    
 }
 
 div.campo > input{
@@ -94,7 +97,6 @@ div.campo > input{
     border: 0px;
     border-radius: 8px;
     padding: 3px;
-    transform: translateY(-12px);
 }
 
 div.campo > input:focus-within {
